@@ -1,7 +1,15 @@
 # js-nfc-wifi-parser
 parsing library for NFC WiFi application/vnd.wfa.wsc Mimetype Tags according to WiFi Alliance
 
-The library is based on the Google Android Implementaiton according to WIFi Alliance Wi-Fi Protected Setup Specification
+The library is based on the Google Android Implementation according to WiFi Alliance Wi-Fi Protected Setup Specification.
+The Google Source can be found here: https://android.googlesource.com/platform/packages/apps/Nfc/+/android-6.0.1_r5/src/com/android/nfc/NfcWifiProtectedSetup.java
+
+Unfortunately the specification documentation provided by the WiFi Alliance is not publically available, but some information on the tag format can be found here:
+
+http://stackoverflow.com/a/30248480/493726
+http://tagstand.com/nfc-user-guide/wi-fi-access-nfc-tag/
+
+Googling around should help you find the official document, the title is "Wi-Fi Protected Setup Specification Version 1.0h"
 
 ## Usage
 Simply inlude via
