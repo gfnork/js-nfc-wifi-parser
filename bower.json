@@ -5,7 +5,7 @@
     "Qiong Wu <qiong.wu@gfnork.de>"
   ],
   "description": "",
-  "main": "",
+  "main": "dist/nfc-wifi-parser.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
