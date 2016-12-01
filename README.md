@@ -12,6 +12,10 @@ Unfortunately the specification documentation provided by the WiFi Alliance is n
 
 Googling around should help you find the official document, the title is "Wi-Fi Protected Setup Specification Version 1.0h"
 
+# Try it
+
+Check out https://repl.it/E4HO/65 where a working copy of the source code can be played around with.
+
 ## Usage
 Simply inlude via
 
