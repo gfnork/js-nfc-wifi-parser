@@ -1,3 +1,5 @@
+![npm badge](https://nodei.co/npm/js-nfc-wifi-parser.png)
+
 # js-nfc-wifi-parser
 parsing library for NFC WiFi application/vnd.wfa.wsc Mimetype Tags according to WiFi Alliance
 
